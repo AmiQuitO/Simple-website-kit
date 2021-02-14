@@ -1,2 +1,3 @@
-# Simple-website-kit Autor: Konrad Hoffmann Silva aka AmiQuitO
-The basic things you need in your website! :D
+# Simple-website-kit
+The basic things you need on your website! :D
+Autor: Konrad Hoffmann Silva aka AmiQuitO
